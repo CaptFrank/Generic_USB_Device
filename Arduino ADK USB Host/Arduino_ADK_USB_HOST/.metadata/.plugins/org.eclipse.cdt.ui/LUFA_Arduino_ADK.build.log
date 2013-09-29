@@ -1,0 +1,20 @@
+23:52:23 **** Incremental Build of configuration Release for project LUFA_Arduino_ADK ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega2560 LUFA_Arduino_ADK.elf
+AVR Memory Usage
+----------------
+Device: atmega2560
+
+Program:     678 bytes (0.3% Full)
+(.text + .data + .bootloader)
+
+Data:          9 bytes (0.1% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+23:52:23 Build Finished (took 72ms)
+
